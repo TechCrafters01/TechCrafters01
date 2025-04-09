@@ -40,7 +40,7 @@
 
 - 🌐 Website: [techcrafters.dev](https://yourwebsite.com)
 - 💼 LinkedIn: [linkedin.com/in/techcrafters01](https://linkedin.com)
-- 📧 Email: `you@example.com`
+- 📧 Email: `por.thanathon.th@gmail.com`
 - 🧠 AI Blog: [medium.com/@techcrafterai](https://medium.com)
 
 ---
