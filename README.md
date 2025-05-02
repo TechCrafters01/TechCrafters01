@@ -15,7 +15,7 @@
 
 | 💻 Programming | ⚙️ Tools & Platform | 🤖 AI/ML |
 |---------------|----------------------|---------|
-| `C/C++`, `C#` , `Java`  ,`Angular`, `Python`, `JavaScript`, `TypeScript`, `Go` | `Linux`, `Git`, `Docker`, `VS Code`, `Postman` | `TensorFlow`, `PyTorch`, `OpenCV`, `Scikit-Learn` |
+| `C/C++`, `C#` , `Java`  ,`Angular`, `Python`, `JavaScript`, `TypeScript`, `Go`,`Html`,`CSS`,`PHP`  | `Linux`, `Git`, `Docker`, `VS Code`, `Postman` | `TensorFlow`, `PyTorch`, `OpenCV`, `Scikit-Learn` |
 | `Node.js`, `NestJS`, `Express`, `Next.js` | `Raspberry Pi`, `ESP32`, `Arduino` | `LangChain`, `LLMs`, `Transformers` |
 
 ---
