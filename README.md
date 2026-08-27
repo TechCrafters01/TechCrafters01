@@ -10,7 +10,7 @@
 <br/>
 
 <!-- 2. Tech Stack (Perfect Grid Layout 10x4) -->
-<h3 align="center">⚡ Tech Arsenal</h3>
+<h3 align="center"> Tech Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Languages: C, C++, C#, Java, Python, Go, PHP, Dart, TS, JS -->
@@ -27,7 +27,7 @@
 <br/>
 
 <!-- 3. GitHub Analytics (Side-by-Side Dashboard Layout) -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center"> GitHub Analytics</h3>
 <div align="center">
   <!-- โค้ดนี้ใช้ Server สำรองเพื่อแก้ปัญหารูปแตก (Maximum retries exceeded) ตามในภาพของคุณ -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechCrafters01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
