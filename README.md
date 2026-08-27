@@ -52,6 +52,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechCrafters01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechCrafters01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechCrafters01&show_icons=true&theme=tokyonight&hide_border=true&v=1)](https://github.com/TechCrafters01)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TechCrafters01&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/TechCrafters01)
+
 </div>
