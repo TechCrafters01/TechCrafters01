@@ -1,6 +1,5 @@
-<!-- ข้อความหัวข้อแบบมี Animation พิมพ์อัตโนมัติ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=💻+Tech+Stack+%26+Tools;🚀+Full-Stack+Engineer+%7C+AI+Builder;⚙️+DevOps,+APIs+%26+Smart+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Tech+Stack+%26+Tools;%F0%9F%9A%80+Full-Stack+Engineer+%7C+AI+Builder;%E2%9A%99%EF%B8%8F+DevOps,+APIs+%26+Smart+Workflows" alt="Typing SVG" />
 </p>
 
 <br/>
