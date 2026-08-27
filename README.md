@@ -33,6 +33,15 @@
 ![Encore.dev](https://img.shields.io/badge/Encore-black?style=for-the-badge)
 ![Payment Gateway](https://img.shields.io/badge/Payment_Gateway-008CBA?style=for-the-badge&logo=stripe&logoColor=white)
 
+### AI / LLM Infrastructure
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-4B0082?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00A3E0?style=for-the-badge)
+
+### Messaging Platform APIs
+![LINE Messaging API](https://img.shields.io/badge/LINE%20Messaging%20API-00C300?style=for-the-badge&logo=line&logoColor=white)
+![Messenger Platform](https://img.shields.io/badge/Messenger%20Platform-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+
 ### Database & ORM
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF5252?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
