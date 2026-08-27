@@ -7,10 +7,25 @@
   <em>Molding ideas into seamless AI-driven and high-performance solutions.</em>
 </p>
 
+<!-- Social & Contact Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/thanathon-w"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:por.thanathon.th@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://thanathon.online/en"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
 <br/>
 
-<!-- 2. Tech Stack (Perfect Grid Layout 10x4) -->
-<h3 align="center"> Tech Arsenal</h3>
+<!-- 2. Current Focus -->
+### 🔭 Current Focus & Expertise
+- 🏗️ **Architecture:** Building Omnichannel Platforms & Scalable Distributed Systems.
+- 🧠 **AI & LLM:** Optimizing Local LLMs (Ollama, vLLM), RAG, and AI Agents integrations.
+- ⚙️ **Automation:** Streamlining workflows with Docker, Tailscale, Dokploy, and n8n.
+
+<br/>
+
+<!-- 3. Tech Stack (Perfect Grid Layout 10x4) -->
+<h3 align="center">⚡ Tech Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Languages: C, C++, C#, Java, Python, Go, PHP, Dart, TS, JS -->
@@ -24,12 +39,22 @@
   </a>
 </p>
 
+<!-- 4. Specialized AI & Automation Tools -->
+<h3 align="center">🤖 AI, LLM & Workflow Automation</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-00A3E0?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Qdrant-FF5252?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat-square" alt="RAG" />
+</p>
+
 <br/>
 
-<!-- 3. GitHub Analytics (Side-by-Side Dashboard Layout) -->
-<h3 align="center"> GitHub Analytics</h3>
+<!-- 5. GitHub Analytics (Side-by-Side Dashboard Layout) -->
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <!-- โค้ดนี้ใช้ Server สำรองเพื่อแก้ปัญหารูปแตก (Maximum retries exceeded) ตามในภาพของคุณ -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechCrafters01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TechCrafters01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
 </div>
