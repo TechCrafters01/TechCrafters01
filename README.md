@@ -1,4 +1,9 @@
-## 💻 Tech Stack & Tools
+<!-- ข้อความหัวข้อแบบมี Animation พิมพ์อัตโนมัติ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=💻+Tech+Stack+%26+Tools;🚀+Full-Stack+Engineer+%7C+AI+Builder;⚙️+DevOps,+APIs+%26+Smart+Workflows" alt="Typing SVG" />
+</p>
+
+<br/>
 
 ### 🌐 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,3 +49,12 @@
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
 ![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge)
+
+<br/>
+
+### 📊 GitHub Analytics
+<!-- การ์ดแสดงสถิติแบบมี Animation (ดึงข้อมูลจริงจาก TechCrafters01) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechCrafters01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCrafters01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
